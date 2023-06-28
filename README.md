@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello there 👋
 
+- 🔭 I’m currently working on MERN projects.
+- 🌱 I’m currently following BSc (Hons) in Information Technology Specialising in Software Engineering.
+- 👯 I’m looking to collaborate on new projects.
+- 📫 How to reach me: www.linkedin.com/in/sauni-weerasinghe.
+- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IT21373848)](https://git.io/streak-stats) 
 
 <!--
