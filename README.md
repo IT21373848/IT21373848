@@ -1,5 +1,7 @@
-<b><h3 align="center">Hello there! 👋, I am Sauni </h3></b>
-<h4 align="center">A passionate Software Developer</h4>
+### Hello there! 👋
+**I am Sauni**
+---
+#### A passionate Software Developer
 Welcome to my GitHub profile
 
 Here are some additional details:
