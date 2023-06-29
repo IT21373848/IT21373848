@@ -27,7 +27,7 @@ Here are some additional details:
 - GitHub Stats:
   <p align="center">
     <a href="https://github.com/IT21373848/github-readme-stats">
-      <img src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)">
+      <img src="(https://github-readme-stats.vercel.app/api?username=IT21373848&show_icons=true&theme=dark)">
     </a>
   </p>
 
