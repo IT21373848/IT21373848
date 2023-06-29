@@ -1,13 +1,15 @@
-<center>
+<div style="text-align: center;">
   <h3>Hello there! 👋</h3>
   <strong>I am Sauni</strong>
-</center>
+</div>
 
 ---
-<center>
-#### A passionate Software Developer
-Welcome to my GitHub profile
-</center>
+
+<div style="text-align: center;">
+  <h4>A passionate Software Developer</h4>
+  <p>Welcome to my GitHub profile</p>
+</div>
+
 Here are some additional details:
 
 - Profile views:
