@@ -1,9 +1,13 @@
-### Hello there! 👋
-**I am Sauni**
+<center>
+  <h3>Hello there! 👋</h3>
+  <strong>I am Sauni</strong>
+</center>
+
 ---
+<center>
 #### A passionate Software Developer
 Welcome to my GitHub profile
-
+</center>
 Here are some additional details:
 
 - Profile views:
