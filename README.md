@@ -1,13 +1,18 @@
-### Hello there 👋
+### Hello there! 👋
+Welcome to my GitHub profile
 
-- 🔭 I’m currently working on MERN projects.
-- 🌱 I’m currently following BSc (Hons) in Information Technology Specialising in Software Engineering.
-- 👯 I’m looking to collaborate on new projects.
-- 📫 How to reach me: www.linkedin.com/in/sauni-weerasinghe.
 
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IT21373848)](https://git.io/streak-stats) 
+Here are some additional details:
 
-     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21373848)](https://github.com/IT21373848/github-readme-stats)
+- Profile views:
+##### ![](https://komarev.com/ghpvc/?username=your-github-username)
+- GitHub Streak:
+##### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IT21373848)](https://git.io/streak-stats)
+- GitHub Stats:
+##### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21373848)](https://github.com/IT21373848/github-readme-stats)
+
+If you have any further questions or need assistance, feel free to ask!
+You can reach me at [LinkedIn](www.linkedin.com/in/sauni-weerasinghe).
 
 <!--
 **IT21373848/IT21373848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
