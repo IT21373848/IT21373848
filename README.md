@@ -10,6 +10,8 @@
   <p>Welcome to my GitHub profile</p>
 </div>
 
+<br>
+
 Here are some additional details:
 
 - Profile views:
