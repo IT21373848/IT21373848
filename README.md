@@ -32,9 +32,9 @@ Here are some additional details:
   </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iit21373848&show_icons=true&locale=en&layout=compact" alt="iit21373848" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IT21373848&show_icons=true&locale=en&layout=compact" alt="iit21373848" /></p>
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iit21373848" alt="iit21373848" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IT21373848" alt="iit21373848" /></a> </p>
 
 
 If you have any further questions or need assistance, feel free to ask! You can reach me at [LinkedIn](www.linkedin.com/in/sauni-weerasinghe).
