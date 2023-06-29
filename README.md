@@ -40,7 +40,7 @@ Here are some additional details:
 
 
   
-If you have any further questions or need assistance, feel free to ask! You can reach me at [LinkedIn](www.linkedin.com/in/sauni-weerasinghe).
+If you have any further questions or need assistance, feel free to ask! You can reach me at <a href="https://www.linkedin.com/in/sauni-weerasinghe">LinkedIn</a>.
 
 
 
