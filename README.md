@@ -1,11 +1,11 @@
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <h3>Hello there! 👋</h3>
   <strong>I am Sauni</strong>
 </div>
 
----
+<hr/>
 
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <h4>A passionate Software Developer</h4>
   <p>Welcome to my GitHub profile</p>
 </div>
