@@ -34,7 +34,7 @@ Here are some additional details:
 
 If you have any further questions or need assistance, feel free to ask! You can reach me at [LinkedIn](www.linkedin.com/in/sauni-weerasinghe).
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IT21373848" alt="iit21373848" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IT21373848&theme=dark" alt="iit21373848" /></a> </p>
 
 
 
