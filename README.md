@@ -12,7 +12,7 @@
 
 <br>
 
-Here are some additional details:
+Here are some additional details of me:
 
 - Profile views:
   <p align="center">
